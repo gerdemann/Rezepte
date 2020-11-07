@@ -8,3 +8,4 @@
 ## Kuchen, Torten & Gebäck
 
 * [Nussecken](Kuchen%2C%20Torten%20%26%20Gebäck/Nussecken.md)
+* [Waffeln](Kuchen%2C%20Torten%20%26%20Gebäck/Waffeln.md)
