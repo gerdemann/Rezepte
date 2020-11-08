@@ -11,6 +11,7 @@
 |40g        |Zucker      |
 |1⁄2 Würfel |Frische Hefe|
 |2          |Eier        |
+|1          |Eigelb      |
 |80g        |Butter      |
 |5g         |Salz        |
 |1 Esslöffel|Sahne       |
