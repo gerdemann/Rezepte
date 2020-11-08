@@ -49,9 +49,13 @@ Den Teig bei ca. 5°C für 6-12 Stunden ruhen lassen.
 
 ### Backen
 
-Den Teig vorsichtig aus der Schüssel nehmen und ca. 10 Brötchen abstechen.  
+Den Teig vorsichtig aus der Schüssel nehmen und ca. 10 Brötchen abstechen und einschneiden.  
 Den Ofen auf 240°C vorheizen. Die Brötchen in den Ofen geben und die Temperatur auf 220°C runterstellen.  
 Nach ca. 18 Minuten sind die Brötchen fertig.
+
+## Tipp
+
+Der Teig ist auch für ein Brot geeignet. Dafür einfach ein Brot formen, einschneiden und etwas länger backen.
 
 ## Foto
 
