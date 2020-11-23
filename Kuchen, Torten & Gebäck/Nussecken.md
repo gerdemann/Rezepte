@@ -5,12 +5,12 @@
 |Menge      |Zutat               |
 |-----------|--------------------|
 |500g       |Weizenmehl          |
-|550g       |Margarine           |
-|430g       |Zucker              |
+|590g       |Margarine           |
+|530g       |Zucker              |
 |2          |Eier                |
 |2 Päckchen |Vanillezucker       |
 |8 Esslöffel|Wasser              |
-|400g       |gemahlene Haselnüsse|
+|560g       |gemahlene Haselnüsse|
 |150g       |Aprikosenmarmelade  |
 |           |Schokolade          |
 
@@ -42,12 +42,11 @@ Alle Zutaten mischen und auf dem Backblech ausrollen.
 
 |Menge      |Zutat               |
 |-----------|--------------------|
-|300g       |Margarine           |
-|300g       |Zucker              |
-|2          |Eier                |
+|340g       |Margarine           |
+|400g       |Zucker              |
 |2 Päckchen |Vanillezucker       |
 |8 Esslöffel|Wasser              |
-|400g       |gemahlene Haselnüsse|
+|560g       |gemahlene Haselnüsse|
 
 Die Zutaten (außer die Haselnüsse) in einem Topf aufkochen lassen.  
 Nach dem Aufkochen die gemahlene Nüsse unterheben.
