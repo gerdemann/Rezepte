@@ -2,9 +2,9 @@
 
 ## Brot & Brötchen
 
-* [Burger Buns](Brot%20%26%20Brötchen/Burger%20Buns.md)
-* [Frühstücksbrötchen](Brot%20%26%20Brötchen/Frühstücksbrötchen.md)
-* [Roggenbrot](Brot%20%26%20Brötchen/Roggenbrot.md)
+* [Burger Buns](Brot,%20Brötchen%20%26%20Pizza/Burger%20Buns.md)
+* [Frühstücksbrötchen](Brot,%20Brötchen%20%26%20Pizza/Frühstücksbrötchen.md)
+* [Roggenbrot](Brot,%20Brötchen%20%26%20Pizza/Roggenbrot.md)
 
 ## Kuchen, Torten & Gebäck
 
