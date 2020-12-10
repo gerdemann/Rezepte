@@ -10,6 +10,7 @@
 ## Kuchen, Torten & Gebäck
 
 * [Donauwellen](Kuchen%2C%20Torten%20%26%20Gebäck/Donauwellen.md)
+* [Kalte Schnauze](Kuchen%2C%20Torten%20%26%20Gebäck/Kalte%20Schnauze.md)
 * [Mokka Buttercreme Torte](Kuchen%2C%20Torten%20%26%20Gebäck/Mokka%20Buttercreme%20Torte.md)
 * [Nussecken](Kuchen%2C%20Torten%20%26%20Gebäck/Nussecken.md)
 * [Plätzchen](Kuchen%2C%20Torten%20%26%20Gebäck/Plätzchen.md)
