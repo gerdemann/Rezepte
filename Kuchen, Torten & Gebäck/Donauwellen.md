@@ -12,17 +12,17 @@
 |2 Päckchen |Vanillezucker|
 |6 Teelöffel|Kakao        |
 |2 Gläser   |Sauerkirschen|
-|250g       |Butter       |
-|50g        |Puddingpulver|
-|½ Liter    |Milch        |
-|100g       |Puderzucker  |
+|500g       |Butter       |
+|3 Päckchen |Puddingpulver|
+|1 Liter    |Milch        |
+|200g       |Puderzucker  |
 |1 Prise    |Salz         |
 |etwas      |Rum          |
-|200g       |Kuvertüre    |
+|300g       |Kuvertüre    |
 
 ## Zeit
 
-* ca. 30 Minuten Zubereitung
+* ca. 60 Minuten Zubereitung
 * ca. 30 Minuten backen
 
 ## Zubereitung
@@ -44,7 +44,7 @@ Aus den Zutaten einen Rührteig bilden.
 Die Hälfte des Teiges auf ein gefettetes Blech streichen,  
 die andere Hälfte mit Kakao färben und auf den hellen Teig streichen.  
 Anschließend die Sauerkirschen darauf streichen.  
-Dann ca. 30 Minuten im vorgeheizten Backofen bei 200°C backen.
+Dann ca. 25-30 Minuten im vorgeheizten Backofen bei 200°C backen.
 
 ### Die Buttercreme & Kuvertüre
 
