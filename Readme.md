@@ -16,6 +16,7 @@
 * [Marmorkuchen](Kuchen%2C%20Torten%20%26%20Gebäck/Marmorkuchen.md)
 * [Mokka Buttercreme Torte](Kuchen%2C%20Torten%20%26%20Gebäck/Mokka%20Buttercreme%20Torte.md)
 * [Nussecken](Kuchen%2C%20Torten%20%26%20Gebäck/Nussecken.md)
+* [Nusskuchen](Kuchen%2C%20Torten%20%26%20Gebäck/Nusskuchen.md)
 * [Plätzchen](Kuchen%2C%20Torten%20%26%20Gebäck/Plätzchen.md)
 * [Schokoladen-Nusskuchen mit Eierlikör](Kuchen%2C%20Torten%20%26%20Gebäck/Schokoladen-Nusskuchen%20mit%20Eierlikör.md)
 * [Schokoladenrührkuchen](Kuchen%2C%20Torten%20%26%20Gebäck/Schokoladenrührkuchen.md)
