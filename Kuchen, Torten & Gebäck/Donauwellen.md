@@ -4,12 +4,12 @@
 
 |Menge      |Zutat        |
 |-----------|-------------|
-|500g       |Margarine    |
-|500g       |Zucker       |
-|12         |Eier         |
-|700g       |Mehl         |
+|400g       |Margarine    |
+|400g       |Zucker       |
+|10         |Eier         |
+|550g       |Mehl         |
 |1 Päckchen |Backpulver   |
-|2 Päckchen |Vanillezucker|
+|1 Päckchen |Vanillezucker|
 |6 Teelöffel|Kakao        |
 |2 Gläser   |Sauerkirschen|
 |500g       |Butter       |
@@ -31,12 +31,12 @@
 
 |Menge      |Zutat        |
 |-----------|-------------|
-|500g       |Margarine    |
-|500g       |Zucker       |
-|12         |Eier         |
-|700g       |Mehl         |
+|400g       |Margarine    |
+|400g       |Zucker       |
+|10         |Eier         |
+|550g       |Mehl         |
 |1 Päckchen |Backpulver   |
-|2 Päckchen |Vanillezucker|
+|1 Päckchen |Vanillezucker|
 |6 Teelöffel|Kakao        |
 |2 Gläser   |Sauerkirschen|
 
