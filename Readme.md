@@ -14,6 +14,7 @@
 
 * [Donauwellen](Kuchen%2C%20Torten%20%26%20Gebäck/Donauwellen.md)
 * [Fantakuchen](Kuchen%2C%20Torten%20%26%20Gebäck/Fantakuchen.md)
+* [Feuerwehrkuchen](Kuchen%2C%20Torten%20%26%20Gebäck/Feuerwehrkuchen.md)
 * [Kalte Schnauze](Kuchen%2C%20Torten%20%26%20Gebäck/Kalte%20Schnauze.md)
 * [Marmorkuchen](Kuchen%2C%20Torten%20%26%20Gebäck/Marmorkuchen.md)
 * [Mokka Buttercreme Torte](Kuchen%2C%20Torten%20%26%20Gebäck/Mokka%20Buttercreme%20Torte.md)
