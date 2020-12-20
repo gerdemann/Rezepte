@@ -14,6 +14,7 @@
 
 ## Kuchen, Torten & Gebäck
 
+* [Buttercremetorte](Kuchen%2C%20Torten%20%26%20Gebäck/Buttercremetorte.md)
 * [Donauwellen](Kuchen%2C%20Torten%20%26%20Gebäck/Donauwellen.md)
 * [Fantakuchen](Kuchen%2C%20Torten%20%26%20Gebäck/Fantakuchen.md)
 * [Feuerwehrkuchen](Kuchen%2C%20Torten%20%26%20Gebäck/Feuerwehrkuchen.md)
