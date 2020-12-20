@@ -7,6 +7,7 @@
 * [Hefezopf](Brot,%20Brötchen%20%26%20Pizza/Hefezopf.md)
 * [Italienischer Pizzateig](Brot,%20Brötchen%20%26%20Pizza/Italienischer%20Pizzateig.md)
 * [Kartoffelbrötchen](Brot,%20Brötchen%20%26%20Pizza/Kartoffelbrötchen.md)
+* [Körner Hörnchen](Brot,%20Brötchen%20%26%20Pizza/Körner%20Hörnchen.md)
 * [Roggenbrot](Brot,%20Brötchen%20%26%20Pizza/Roggenbrot.md)
 * [Tomaten Ciabatta](Brot,%20Brötchen%20%26%20Pizza/Tomaten%20Ciabatta.md)
 
