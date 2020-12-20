@@ -2,7 +2,7 @@
 
 ## Zutaten
 
-|Menge|Zutat|
+|Menge|Zutat                      |
 |-----|---------------------------|
 |25g  |Roggenvollkornmehl         |
 |500g |Weizenmehl Typ 550         |
