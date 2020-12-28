@@ -4,9 +4,9 @@
 
 |Menge      |Zutat                                                  |
 |-----------|-------------------------------------------------------|
-|300g       |Mehl                                                   |
+|400g       |Mehl                                                   |
 |½ Würfel   |Hefe                                                   |
-|150 ml     |Wasser, warm                                           |
+|170 ml     |Wasser, warm                                           |
 |2 Teelöffel|Zucker                                                 |
 |1 Teelöffel|Salz                                                   |
 |8          |Tomate(n), getrocknet, in Öl (Abtropfgewicht ca. 180 g)|
