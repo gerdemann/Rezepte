@@ -20,7 +20,7 @@
 ## Zeit
 
 * ca. 60 Minuten Zubereitung
-* 20-15 (bzw. 15-20) Minuten backen
+* ca. 30-45 Minuten backen
 
 
 ## Zubereitung
