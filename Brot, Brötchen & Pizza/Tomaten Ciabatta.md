@@ -18,7 +18,7 @@
 
 * ca. 20 Minuten Zubereitung
 * 65 Minuten gehen lassen
-* 20-15 (bzw. 15-20) Minuten backen
+* 20-25 (bzw. 15-20) Minuten backen
 
 
 ## Zubereitung
