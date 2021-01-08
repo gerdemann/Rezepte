@@ -27,6 +27,7 @@
 * [Schokoladen-Nusskuchen mit Eierlikör](Kuchen%2C%20Torten%20%26%20Gebäck/Schokoladen-Nusskuchen%20mit%20Eierlikör.md)
 * [Schokoladenrührkuchen](Kuchen%2C%20Torten%20%26%20Gebäck/Schokoladenrührkuchen.md)
 * [Schwarzwälder Kirschtorte](Kuchen%2C%20Torten%20%26%20Gebäck/Schwarzwälder%20Kirschtorte.md)
+* [Streuselkuchen](Kuchen%2C%20Torten%20%26%20Gebäck/Streuselkuchen.md)
 * [Streuselkuchen mit Sauerkirschen](Kuchen%2C%20Torten%20%26%20Gebäck/Streuselkuchen%20mit%20Sauerkirschen.md)
 * [Waffeln](Kuchen%2C%20Torten%20%26%20Gebäck/Waffeln.md)
 * [Zimtschnecken](Kuchen%2C%20Torten%20%26%20Gebäck/Zimtschnecken.md)
