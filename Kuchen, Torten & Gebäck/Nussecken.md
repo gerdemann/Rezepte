@@ -17,7 +17,7 @@
 ## Zeit
 
 * ca. 30 Minuten Zubereitung
-* 2x 20 Minuten backen
+* 25-30 Minuten backen
 
 ## Zubereitung
 
